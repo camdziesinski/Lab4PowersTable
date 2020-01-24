@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cdzie\\source\\repos\\Lab4PowersTable\\Lab4PowersTable\\Lab4PowersTable.csproj": {}
+    "C:\\Users\\cdzie\\source\\repos\\GrandCircusC#2020\\Lab4PowersTable\\Lab4PowersTable\\Lab4PowersTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cdzie\\source\\repos\\Lab4PowersTable\\Lab4PowersTable\\Lab4PowersTable.csproj": {
+    "C:\\Users\\cdzie\\source\\repos\\GrandCircusC#2020\\Lab4PowersTable\\Lab4PowersTable\\Lab4PowersTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cdzie\\source\\repos\\Lab4PowersTable\\Lab4PowersTable\\Lab4PowersTable.csproj",
+        "projectUniqueName": "C:\\Users\\cdzie\\source\\repos\\GrandCircusC#2020\\Lab4PowersTable\\Lab4PowersTable\\Lab4PowersTable.csproj",
         "projectName": "Lab4PowersTable",
-        "projectPath": "C:\\Users\\cdzie\\source\\repos\\Lab4PowersTable\\Lab4PowersTable\\Lab4PowersTable.csproj",
+        "projectPath": "C:\\Users\\cdzie\\source\\repos\\GrandCircusC#2020\\Lab4PowersTable\\Lab4PowersTable\\Lab4PowersTable.csproj",
         "packagesPath": "C:\\Users\\cdzie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cdzie\\source\\repos\\Lab4PowersTable\\Lab4PowersTable\\obj\\",
+        "outputPath": "C:\\Users\\cdzie\\source\\repos\\GrandCircusC#2020\\Lab4PowersTable\\Lab4PowersTable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cdzie\\AppData\\Roaming\\NuGet\\NuGet.Config",

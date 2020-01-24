@@ -9,3 +9,14 @@ C:\Users\cdzie\source\repos\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp
 C:\Users\cdzie\source\repos\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.pdb
 C:\Users\cdzie\source\repos\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.dll
 C:\Users\cdzie\source\repos\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.pdb
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.exe
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.deps.json
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.runtimeconfig.json
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.runtimeconfig.dev.json
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.dll
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.pdb
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.csprojAssemblyReference.cache
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.AssemblyInfoInputs.cache
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.AssemblyInfo.cs
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.dll
+C:\Users\cdzie\source\repos\GrandCircusC#2020\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.pdb

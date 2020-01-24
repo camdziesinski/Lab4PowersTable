@@ -36,26 +36,30 @@ namespace Lab4PowersTable
 
                 for (int i = 1; i <= Number; i++)
                 {
-                    Square = i * i;
+                    Square = SquarePower(i);
                     Cube = Square * i;
                     Console.WriteLine("\t{0}\t\t{1}\t\t{2}", i, Square, Cube);
                 }
-                
+                Console.WriteLine("\t=========================================");
                 userGo = "";
                 while (userGo != "y" && userGo != "n")
 
                 {
                     Console.WriteLine($"Would you like to enter another number? (y/n)");
                     userGo = Console.ReadLine().ToLower();
-                }
-
-                if (userGo == "n")
-                    {
-                        Console.WriteLine($"Goodbye.");
-
-                    }
+                }                   
             }
-            
+            Console.WriteLine($"Goodbye.");
+        }
+
+        public static int SquarePower(int i)
+        {
+            return i * i;
+        }
+
+        public static int CubePower(int i)
+        {
+            return SquarePower(i) * i;
         }
     }
 }
